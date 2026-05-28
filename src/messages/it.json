@@ -16,7 +16,8 @@
     "rating": "4.6",
     "reviewCount": "5.232 recensioni",
     "type": "Piazza Storica",
-    "openMaps": "Visualizza su Google Maps"
+    "openMaps": "Visualizza su Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
   },
   "intro": {
     "title": "Scopri St. George's Square",
@@ -169,17 +170,76 @@
     ],
     "viewAll": "Visualizza su Google Maps",
     "showAll": "Mostra Tutte le Foto",
-    "showLess": "Mostra Meno"
+    "showLess": "Mostra Meno",
+    "viewAllLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
   },
   "reviews": {
     "title": "Recensioni dei Visitatori",
     "declaration": "Le recensioni possono essere visualizzate tramite Google Maps.",
-    "moreReviews": "Visualizza più recensioni su Google Maps"
+    "moreReviews": "Visualizza più recensioni su Google Maps",
+    "items": [
+      {
+        "name": "Marco B.",
+        "date": "Aprile 2026",
+        "rating": 5,
+        "text": "St. George's Square è il cuore pulsante di Valletta. L'architettura è mozzafiato, e l'atmosfera, specialmente la sera, è magica. Le fontane aggiungono un tocco adorabile all'ambiente barocco."
+      },
+      {
+        "name": "Elena V.",
+        "date": "Marzo 2026",
+        "rating": 4,
+        "text": "Una bella piazza circondata da imponenti edifici storici. È un ottimo posto per sedersi, rilassarsi e osservare la gente dopo aver esplorato le stradine della città. Molto soleggiato a mezzogiorno, quindi portate un cappello."
+      },
+      {
+        "name": "David S.",
+        "date": "Febbraio 2026",
+        "rating": 5,
+        "text": "Una delle piazze più curate ed eleganti che abbia mai visitato. Il Palazzo del Gran Maestro domina un lato, e le fontane ritmiche sono un successo tra i bambini. Altamente raccomandata per una passeggiata."
+      },
+      {
+        "name": "Sophie M.",
+        "date": "Gennaio 2026",
+        "rating": 5,
+        "text": "Siamo stati abbastanza fortunati da assistere alla cerimonia del cambio della guardia qui. La piazza è spaziosa, pulita e funge da snodo centrale per turisti e locali. Un must a Malta."
+      },
+      {
+        "name": "Giovanni L.",
+        "date": "Dicembre 2025",
+        "rating": 4,
+        "text": "Piazza molto bella con incantevoli caffè nelle vicinanze. È completamente pedonale, il che la rende sicura e tranquilla nonostante si trovi nel centro della capitale. Gli spettacoli di luce di notte sono meravigliosi."
+      },
+      {
+        "name": "Anna P.",
+        "date": "Novembre 2025",
+        "rating": 5,
+        "text": "Architettura assolutamente sbalorditiva ovunque si guardi. L'ingresso è gratuito e ci sono costantemente eventi culturali o mostre in corso. Un luogo perfetto per gli amanti della fotografia."
+      },
+      {
+        "name": "John T.",
+        "date": "Ottobre 2025",
+        "rating": 5,
+        "text": "Un maestoso spazio aperto nel centro di Valletta. Qui si respira davvero la storia dei Cavalieri di San Giovanni. È particolarmente bella poco prima del tramonto quando la pietra calcarea diventa dorata."
+      },
+      {
+        "name": "Maria C.",
+        "date": "Settembre 2025",
+        "rating": 4,
+        "text": "Ottima piazza per fermarsi a prendere fiato. È pulita, spaziosa e ti dà un buon senso della grandiosità di Valletta. Vorrei solo ci fossero un po' più di posti a sedere disponibili."
+      },
+      {
+        "name": "Thomas K.",
+        "date": "Agosto 2025",
+        "rating": 5,
+        "text": "Ho amato la miscela di edifici storici con le moderne fontane a pavimento. È un'area vibrante dove si può davvero apprezzare la cultura e il patrimonio maltese. Da non perdere."
+      }
+    ],
+    "moreReviewsLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
   },
   "mapSection": {
     "title": "Posizione sulla Mappa",
     "subtitle": "VGX7+JCW, Republic St, Valletta, Malta",
-    "openMaps": "Visualizza su Google Maps"
+    "openMaps": "Visualizza su Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
   },
   "footer": {
     "brandName": "St. George's Square",
@@ -252,5 +312,34 @@
     },
     "save": "Salva Preferenze",
     "saved": "Preferenze salvate!"
+  },
+  "tickets": {
+    "title": "Biglietti e Prezzi",
+    "park": "Accesso alla Piazza",
+    "parkPrice": "Gratuito",
+    "parking": "Parcheggio",
+    "parkingPrice": "Si applicano le tariffe del parcheggio pubblico",
+    "guided": "Visite Guidate",
+    "guidedPrice": "Disponibili per le attrazioni circostanti (es. Palazzo del Gran Maestro)"
+  },
+  "hotels": {
+    "title": "Alloggi nelle Vicinanze",
+    "hotels": [
+      {
+        "name": "Centro Storico di Valletta",
+        "desc": "Soggiornare nel centro storico consente di raggiungere facilmente la piazza a piedi.",
+        "price": "Consigliato"
+      },
+      {
+        "name": "Vicino al Grand Harbour",
+        "desc": "Goditi la vista sul mare trovandoti a breve distanza a piedi dalla piazza.",
+        "price": "Consigliato"
+      },
+      {
+        "name": "Boutique Hotel",
+        "desc": "Molti edifici storici di Valletta sono stati convertiti in affascinanti boutique hotel.",
+        "price": "Consigliato"
+      }
+    ]
   }
 }

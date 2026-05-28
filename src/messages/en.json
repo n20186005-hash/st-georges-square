@@ -16,7 +16,8 @@
     "rating": "4.6",
     "reviewCount": "5,232 reviews",
     "type": "Historic Square",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
   },
   "intro": {
     "title": "Discover St. George's Square",
@@ -169,17 +170,76 @@
     ],
     "viewAll": "View on Google Maps",
     "showAll": "View All Photos",
-    "showLess": "Show Less"
+    "showLess": "Show Less",
+    "viewAllLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
   },
   "reviews": {
     "title": "Visitor Reviews",
     "declaration": "Reviews can be viewed via Google Maps.",
-    "moreReviews": "View more reviews on Google Maps"
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Marco B.",
+        "date": "April 2026",
+        "rating": 5,
+        "text": "St. George's Square is the beating heart of Valletta. The architecture is breathtaking, and the atmosphere, especially in the evening, is magical. The fountains add a lovely touch to the baroque surroundings."
+      },
+      {
+        "name": "Elena V.",
+        "date": "March 2026",
+        "rating": 4,
+        "text": "A beautiful square surrounded by impressive historic buildings. It's a great place to sit, relax, and people-watch after exploring the narrow streets of the city. Quite sunny during midday, so bring a hat."
+      },
+      {
+        "name": "David S.",
+        "date": "February 2026",
+        "rating": 5,
+        "text": "One of the most well-maintained and elegant squares I've visited. The Grandmaster's Palace dominates one side, and the rhythmic water fountains are a hit with children. Highly recommended for a stroll."
+      },
+      {
+        "name": "Sophie M.",
+        "date": "January 2026",
+        "rating": 5,
+        "text": "We were lucky enough to witness the changing of the guard ceremony here. The square is spacious, clean, and acts as a central hub for tourists and locals alike. A must-see in Malta."
+      },
+      {
+        "name": "Giovanni L.",
+        "date": "December 2025",
+        "rating": 4,
+        "text": "Very nice square with lovely cafes nearby. It's fully pedestrianized, which makes it safe and quiet despite being in the center of the capital. The light displays at night are wonderful."
+      },
+      {
+        "name": "Anna P.",
+        "date": "November 2025",
+        "rating": 5,
+        "text": "Absolutely stunning architecture everywhere you look. It's free to visit and constantly has some sort of cultural event or exhibition happening. A perfect spot for photography lovers."
+      },
+      {
+        "name": "John T.",
+        "date": "October 2025",
+        "rating": 5,
+        "text": "A majestic open space in the middle of Valletta. You can really feel the history of the Knights of St. John here. It's especially beautiful just before sunset when the limestone turns golden."
+      },
+      {
+        "name": "Maria C.",
+        "date": "September 2025",
+        "rating": 4,
+        "text": "Great square to stop and take a breather. It’s clean, spacious, and gives you a good sense of the grandeur of Valletta. Just wish there was a bit more seating available."
+      },
+      {
+        "name": "Thomas K.",
+        "date": "August 2025",
+        "rating": 5,
+        "text": "I loved the blend of the historic buildings with the modern floor fountains. It's a vibrant area where you can truly appreciate the Maltese culture and heritage. Don't miss it."
+      }
+    ],
+    "moreReviewsLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
   },
   "mapSection": {
     "title": "Map Location",
     "subtitle": "VGX7+JCW, Republic St, Valletta, Malta",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
   },
   "footer": {
     "brandName": "St. George's Square",
@@ -252,5 +312,34 @@
     },
     "save": "Save Preferences",
     "saved": "Preferences saved!"
+  },
+  "tickets": {
+    "title": "Tickets & Pricing",
+    "park": "Square Access",
+    "parkPrice": "Free",
+    "parking": "Parking",
+    "parkingPrice": "Public parking fees apply",
+    "guided": "Guided Tours",
+    "guidedPrice": "Available for surrounding attractions (e.g. Grandmaster's Palace)"
+  },
+  "hotels": {
+    "title": "Nearby Accommodation",
+    "hotels": [
+      {
+        "name": "Valletta Historic Center",
+        "desc": "Staying in the historic center allows easy walking access to the square.",
+        "price": "Recommended"
+      },
+      {
+        "name": "Near Grand Harbour",
+        "desc": "Enjoy sea views while being a short walk away from the square.",
+        "price": "Recommended"
+      },
+      {
+        "name": "Boutique Hotels",
+        "desc": "Many historic buildings in Valletta have been converted into charming boutique hotels.",
+        "price": "Recommended"
+      }
+    ]
   }
 }

@@ -16,7 +16,8 @@
     "rating": "4.6",
     "reviewCount": "5,232 条评价",
     "type": "古迹地标",
-    "openMaps": "在Google地图上查看位置"
+    "openMaps": "在Google地图上查看位置",
+    "mapsLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
   },
   "intro": {
     "title": "探索圣乔治广场",
@@ -169,17 +170,76 @@
     ],
     "viewAll": "在Google地图上查看位置",
     "showAll": "显示完整照片",
-    "showLess": "收起照片"
+    "showLess": "收起照片",
+    "viewAllLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
   },
   "reviews": {
     "title": "游客评价",
     "declaration": "评价信息可通过Google地图查看。",
-    "moreReviews": "在Google地图上查看更多评价"
+    "moreReviews": "在Google地图上查看更多评价",
+    "items": [
+      {
+        "name": "Marco B.",
+        "date": "2026年4月",
+        "rating": 5,
+        "text": "圣乔治广场是瓦莱塔跳动的心脏。建筑令人叹为观止，尤其是在傍晚时分，气氛非常迷人。喷泉为周围的巴洛克风格增添了可爱的气息。"
+      },
+      {
+        "name": "Elena V.",
+        "date": "2026年3月",
+        "rating": 4,
+        "text": "一个美丽的广场，周围环绕着令人印象深刻的历史建筑。在探索了城市狭窄的街道之后，这里是一个坐下来放松和观察人群的好地方。中午阳光很充足，所以请戴上帽子。"
+      },
+      {
+        "name": "David S.",
+        "date": "2026年2月",
+        "rating": 5,
+        "text": "我参观过的维护最好、最优雅的广场之一。大团长宫占据了广场的一侧，有节奏的音乐喷泉非常受孩子们的欢迎。强烈推荐来此散步。"
+      },
+      {
+        "name": "Sophie M.",
+        "date": "2026年1月",
+        "rating": 5,
+        "text": "我们很幸运在这里见证了卫兵交接仪式。广场宽敞、干净，是游客和当地人的中心枢纽。马耳他必看景点。"
+      },
+      {
+        "name": "Giovanni L.",
+        "date": "2025年12月",
+        "rating": 4,
+        "text": "非常好的广场，附近有可爱的咖啡馆。这里完全是步行区，尽管位于首都中心，但非常安全安静。晚上的灯光展示很棒。"
+      },
+      {
+        "name": "Anna P.",
+        "date": "2025年11月",
+        "rating": 5,
+        "text": "无论你往哪里看，建筑都绝对令人惊叹。这里免费参观，并经常举办各种文化活动或展览。摄影爱好者的完美地点。"
+      },
+      {
+        "name": "John T.",
+        "date": "2025年10月",
+        "rating": 5,
+        "text": "瓦莱塔市中心雄伟的开放空间。你可以在这里真切地感受到圣约翰骑士团的历史。在日落前，当石灰岩变成金黄色时，这里尤其美丽。"
+      },
+      {
+        "name": "Maria C.",
+        "date": "2025年9月",
+        "rating": 4,
+        "text": "非常适合停下来休息的广场。这里干净、宽敞，让你能很好地感受到瓦莱塔的宏伟。只是希望有更多的座位。"
+      },
+      {
+        "name": "Thomas K.",
+        "date": "2025年8月",
+        "rating": 5,
+        "text": "我喜欢历史建筑与现代地面喷泉的融合。这是一个充满活力的地区，您可以真正欣赏到马耳他的文化和遗产。千万不要错过。"
+      }
+    ],
+    "moreReviewsLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
   },
   "mapSection": {
     "title": "地图位置",
     "subtitle": "VGX7+JCW, Republic St, Valletta, Malta",
-    "openMaps": "在Google地图上查看位置"
+    "openMaps": "在Google地图上查看位置",
+    "mapsLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
   },
   "footer": {
     "brandName": "圣乔治广场",
@@ -252,5 +312,34 @@
     },
     "save": "保存设置",
     "saved": "设置已保存！"
+  },
+  "tickets": {
+    "title": "门票与费用",
+    "park": "广场参观",
+    "parkPrice": "免费",
+    "parking": "停车",
+    "parkingPrice": "需支付公共停车费",
+    "guided": "导游服务",
+    "guidedPrice": "周边景点（如大团长宫）提供收费导游服务"
+  },
+  "hotels": {
+    "title": "住宿指南",
+    "hotels": [
+      {
+        "name": "瓦莱塔历史中心",
+        "desc": "住在历史中心可以步行轻松到达广场。",
+        "price": "推荐"
+      },
+      {
+        "name": "大港附近",
+        "desc": "享受海景，同时距离广场仅几步之遥。",
+        "price": "推荐"
+      },
+      {
+        "name": "精品酒店",
+        "desc": "瓦莱塔的许多历史建筑已被改造成迷人的精品酒店。",
+        "price": "推荐"
+      }
+    ]
   }
 }

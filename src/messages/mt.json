@@ -16,7 +16,8 @@
     "rating": "4.6",
     "reviewCount": "5,232 fehmiet",
     "type": "Pjazza Storika",
-    "openMaps": "Ara fuq Google Maps"
+    "openMaps": "Ara fuq Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
   },
   "intro": {
     "title": "Skopri St. George's Square",
@@ -169,17 +170,76 @@
     ],
     "viewAll": "Ara fuq Google Maps",
     "showAll": "Urī l-Foti Kollha",
-    "showLess": "Urī Inqas"
+    "showLess": "Urī Inqas",
+    "viewAllLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
   },
   "reviews": {
     "title": "Fehmiet tal-Viżitaturi",
     "declaration": "Il-fehmiet jistgħu jinħarsu permezz ta' Google Maps.",
-    "moreReviews": "Ara iktar fehmiet fuq Google Maps"
+    "moreReviews": "Ara iktar fehmiet fuq Google Maps",
+    "items": [
+      {
+        "name": "Marco B.",
+        "date": "April 2026",
+        "rating": 5,
+        "text": "Misraħ San Ġorġ hija l-qalb ta' Valletta. L-arkitettura hija mill-isbaħ, u l-atmosfera, speċjalment filgħaxija, hija maġika. Il-funtani jżidu dehra sabiħa mal-ambjent barokk."
+      },
+      {
+        "name": "Elena V.",
+        "date": "Marzu 2026",
+        "rating": 4,
+        "text": "Pjazza sabiħa mdawra b'bini storiċi impressjonanti. Huwa post mill-aqwa fejn toqgħod bilqiegħda, tirrilassa, u tara n-nies jgħaddu. Xemxija ħafna f'nofsinhar, allura ġib kappell."
+      },
+      {
+        "name": "David S.",
+        "date": "Frar 2026",
+        "rating": 5,
+        "text": "Waħda mill-aktar pjazzi miżmuma tajjeb u eleganti li żort. Il-Palazz tal-Gran Mastru jiddomina naħa waħda, u l-funtani huma popolari ħafna mat-tfal. Nirrakkomandaha ħafna għal mixja."
+      },
+      {
+        "name": "Sophie M.",
+        "date": "Jannar 2026",
+        "rating": 5,
+        "text": "Konna xxurtjati biżżejjed li nassistu għaċ-ċerimonja tal-bdil tal-gwardja hawn. Il-pjazza hija spazjuża, nadifa, u sservi bħala ċentru għat-turisti u nies lokali. Ma tistax titlifha f'Malta."
+      },
+      {
+        "name": "Giovanni L.",
+        "date": "Diċembru 2025",
+        "rating": 4,
+        "text": "Pjazza sabiħa ħafna b'kafetteriji ħelwin fil-viċin. Hija għall-pedestrians biss, u dan jagħmilha sigura u kwieta. Id-dawl bil-lejl huwa meraviljuż."
+      },
+      {
+        "name": "Anna P.",
+        "date": "Novembru 2025",
+        "rating": 5,
+        "text": "Arkitettura stupenda kull fejn tħares. Tista' żżurha b'xejn u dejjem ikun hemm xi avveniment kulturali jew esibizzjoni. Post perfett għad-dilettanti tal-fotografija."
+      },
+      {
+        "name": "John T.",
+        "date": "Ottubru 2025",
+        "rating": 5,
+        "text": "Spazju miftuħ maestuż f'nofs Valletta. Tassew tista' tħoss l-istorja tal-Kavallieri ta' San Ġwann hawnhekk. Hija partikolarment sabiħa eżatt qabel inżul ix-xemx."
+      },
+      {
+        "name": "Maria C.",
+        "date": "Settembru 2025",
+        "rating": 4,
+        "text": "Pjazza mill-aqwa biex tieqaf u tistrieħ. Hija nadifa, spazjuża, u tagħtik sens tajjeb tal-kobor ta' Valletta. Nixtieq biss li kien hemm ftit aktar postijiet fejn toqgħod bilqiegħda."
+      },
+      {
+        "name": "Thomas K.",
+        "date": "Awwissu 2025",
+        "rating": 5,
+        "text": "Għoġbitni ħafna t-taħlita tal-bini storiku mal-funtani moderni. Hija żona mimlija ħajja fejn tista' tapprezza tassew il-kultura u l-wirt Malti. Titlifhiex."
+      }
+    ],
+    "moreReviewsLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
   },
   "mapSection": {
     "title": "Post fuq il-Mappa",
     "subtitle": "VGX7+JCW, Republic St, Valletta, Malta",
-    "openMaps": "Ara fuq Google Maps"
+    "openMaps": "Ara fuq Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/CJwegLGa71LFPVkY9"
   },
   "footer": {
     "brandName": "St. George's Square",
@@ -252,5 +312,34 @@
     },
     "save": "Issalva l-Preferenzi",
     "saved": "Preferenzi nsalvati!"
+  },
+  "tickets": {
+    "title": "Biljetti u Prezzijiet",
+    "park": "Aċċess għall-Pjazza",
+    "parkPrice": "B'xejn",
+    "parking": "Parkeġġ",
+    "parkingPrice": "Japplikaw tariffi ta' parkeġġ pubbliku",
+    "guided": "Tours Iggwidati",
+    "guidedPrice": "Disponibbli għal attrazzjonijiet fil-qrib (eż. Palazz tal-Gran Mastru)"
+  },
+  "hotels": {
+    "title": "Akkomodazzjoni fil-Qrib",
+    "hotels": [
+      {
+        "name": "Ċentru Storiku ta' Valletta",
+        "desc": "Billi toqgħod fiċ-ċentru storiku jippermettilek mixja faċli għall-pjazza.",
+        "price": "Rakkomandat"
+      },
+      {
+        "name": "Ħdejn il-Port il-Kbir",
+        "desc": "Igawdu veduti tal-baħar waqt li tkun mixja qasira 'l bogħod mill-pjazza.",
+        "price": "Rakkomandat"
+      },
+      {
+        "name": "Boutique Hotels",
+        "desc": "Ħafna bini storiku f'Valletta ġew ikkonvertiti fi boutique hotels affaxxinanti.",
+        "price": "Rakkomandat"
+      }
+    ]
   }
 }
