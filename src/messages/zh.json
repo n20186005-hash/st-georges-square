@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "title": "圣乔治广场 (Misraħ San Ġorġ)",
+    "description": "瓦莱塔圣乔治广场完整旅游指南。了解这座马耳他瓦莱塔的历史地标，包括位置和游览信息。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "圣乔治广场",
+    "subtitle": "古迹地标 · 瓦莱塔",
+    "rating": "4.6",
+    "reviewCount": "5,232 条评价",
+    "type": "古迹地标",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "intro": {
+    "title": "探索圣乔治广场",
+    "description": "圣乔治广场（St. George's Square），又称Misraħ San Ġorġ，是马耳他首都瓦莱塔最著名的广场之一。它位于城市中心，周围环绕着重要的历史建筑。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "建议早晨或傍晚前往，以避开夏季的高温。",
+        "可结合参观附近的圣约翰联合大教堂等历史景点。",
+        "欣赏广场周围建筑的巴洛克风格外观。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "亮点",
+      "items": [
+        "巴洛克建筑风格",
+        "圣约翰联合大教堂",
+        "瓦莱塔中心位置",
+        "热门活动举办地"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于圣乔治广场",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史背景",
+        "content": "圣乔治广场建于1566年瓦莱塔建城时期。该广场是城市原始规划的一部分，在马耳他历史上具有重要意义。"
+      },
+      {
+        "id": "layout",
+        "title": "建筑与布局",
+        "content": "广场周围环绕着精美的巴洛克建筑，包括圣约翰联合大教堂和历史行政建筑。其设计反映了首都的建筑风格。"
+      },
+      {
+        "id": "culture",
+        "title": "文化意义",
+        "content": "圣乔治广场是马耳他文化活动的中心。经常用于举办音乐会、公共活动和全国庆祝活动。"
+      },
+      {
+        "id": "preservation",
+        "title": "遗产保护",
+        "content": "广场及周围建筑受马耳他文化遗产法保护。马耳他遗产局负责其维护工作。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "St. George's Square (Misraħ San Ġorġ)",
+    "type": "景点类型",
+    "typeValue": "历史广场 / 古迹遗址",
+    "country": "国家",
+    "countryValue": "马耳他 (Malta)",
+    "city": "城市",
+    "cityValue": "瓦莱塔 (Valletta)",
+    "googleRating": "谷歌评分",
+    "googleRatingValue": "4.6 (5,232)",
+    "address": "地址",
+    "addressValue": "VGX7+JCW, Republic St, Valletta, Malta",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "VGX7+JCW Valletta, Malta"
+  },
+  "hours": {
+    "title": "开放时间",
+    "park": "广场开放",
+    "parkTime": "全天24小时开放",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "春季：气候宜人，适合漫步",
+    "bestTimeSummer": "夏季：早晚较为凉爽",
+    "bestTimeAutumn": "秋季：天气温和，适合长时间游览",
+    "bestTimeWinter": "冬季：游客较少，氛围宁静",
+    "tip": "广场全天开放，但建议白天参观以获得最佳体验。"
+  },
+  "transport": {
+    "title": "交通指南",
+    "fromCenter": "从瓦莱塔市中心",
+    "fromCenterDesc": "广场位于瓦莱塔中心，步行即可轻松到达。",
+    "fromStation": "从公交车站",
+    "fromStationDesc": "从瓦莱塔公交总站步行约10分钟。",
+    "fromAirport": "从机场",
+    "fromAirportDesc": "从马耳他机场乘车约30分钟，可乘坐X4路公交。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "广场附近有多条公交线路停靠。",
+    "walking": "步行",
+    "walkingDesc": "探索瓦莱塔的最佳方式是步行，因为城市小而紧凑。",
+    "driving": "自驾",
+    "drivingDesc": "瓦莱塔街道狭窄，建议将车停在市区公共停车场后步行前往。"
+  },
+  "route": {
+    "title": "推荐游览路线",
+    "overview": "在这条路线中体验瓦莱塔的历史和文化。",
+    "steps": [
+      "从圣乔治广场出发，欣赏其巴洛克建筑风格",
+      "参观附近的圣约翰联合大教堂",
+      "步行前往大教长宫",
+      "探索新市场（商人街）",
+      "在上巴拉卡花园欣赏大港景色"
+    ]
+  },
+  "photoSpots": {
+    "title": "绝佳拍照点",
+    "spots": [
+      {
+        "title": "广场中心",
+        "description": "拍摄广场沿途的巴洛克建筑。",
+        "location": "广场中心",
+        "image": "/gallery/st-georges-square (1).jpg"
+      },
+      {
+        "title": "圣约翰联合大教堂",
+        "description": "拍摄附近著名大教堂的理想地点。",
+        "location": "广场附近",
+        "image": "/gallery/st-georges-square (2).jpg"
+      },
+      {
+        "title": "历史拱廊",
+        "description": "捕捉周围历史建筑的建筑细节。",
+        "location": "广场侧面",
+        "image": "/gallery/st-georges-square (3).jpg"
+      },
+      {
+        "title": "夜晚的广场",
+        "description": "夜晚灯光氛围下参观广场。",
+        "location": "傍晚/夜晚",
+        "image": "/gallery/st-georges-square (4).jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "照片画廊",
+    "subtitle": "圣乔治广场的壮丽景象",
+    "captions": [
+      "广场全景",
+      "巴洛克建筑",
+      "圣约翰大教堂",
+      "历史建筑",
+      "石材细节",
+      "日常生活",
+      "拱廊",
+      "棕榈树与建筑",
+      "夜晚广场",
+      "彩色伞饰",
+      "喷泉",
+      "活动",
+      "主教广场",
+      "地中海阳台",
+      "附近咖啡馆"
+    ],
+    "viewAll": "在Google地图上查看位置",
+    "showAll": "显示完整照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可通过Google地图查看。",
+    "moreReviews": "在Google地图上查看更多评价"
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "VGX7+JCW, Republic St, Valletta, Malta",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "footer": {
+    "brandName": "圣乔治广场",
+    "brandSubtitle": "古迹地标 · 瓦莱塔",
+    "rights": "© 2026 独立旅游研究项目 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "相关资源与资讯",
+    "officialLinks": {
+      "heritageMalta": "马耳他国家遗产局",
+      "nationalInventory": "马耳他国家文化财产清单",
+      "visitMalta": "马耳他国家旅游局",
+      "vallettaCity": "瓦莱塔市政府",
+      "planningAuthority": "马耳他国家规划局"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "title": "信息收集",
+        "content": "当您访问我们的网站时，我们可能会自动收集有关您设备、浏览器和浏览行为的基本信息，以便为您提供更好的用户体验。这些信息不包含您的个人身份特征。"
+      },
+      {
+        "title": "Cookie 的使用",
+        "content": "我们使用 Cookie 来分析网站流量并优化页面内容。您可以通过本站底部的 Cookie 设置选项来随时管理您的偏好。"
+      },
+      {
+        "title": "数据安全与保护",
+        "content": "我们致力于保护您的隐私数据安全，不会将您的浏览数据出售、出租或交易给任何第三方商业机构。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "title": "网站内容与使用",
+        "content": "本网站提供有关圣乔治广场的旅游、交通及历史信息。所有内容仅供参考，景点的实际开放时间和票务信息可能随时更改，请以官方发布为准。"
+      },
+      {
+        "title": "知识产权说明",
+        "content": "本网站上的文本、图像和排版设计受版权保护。未经明确的书面许可，任何人不得将网站内容用于商业盈利用途。"
+      },
+      {
+        "title": "免责声明",
+        "content": "我们尽最大努力确保信息的准确性与时效性，但对于因使用本网站提供的信息而直接或间接造成的任何行程延误或损失，本站不承担法律责任。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的Cookie偏好。",
+    "essential": {
+      "title": "必要的Cookie",
+      "description": "基本网站功能所需，无法关闭。",
+      "badge": "始终启用"
+    },
+    "analytics": {
+      "title": "分析",
+      "description": "帮助我们了解访客行为并改进网站。"
+    },
+    "marketing": {
+      "title": "营销",
+      "description": "用于跨网站跟踪和个性化广告展示。"
+    },
+    "save": "保存设置",
+    "saved": "设置已保存！"
+  }
+}

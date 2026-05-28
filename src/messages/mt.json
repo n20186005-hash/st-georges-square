@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "title": "St. George's Square (Misraħ San Ġorġ)",
+    "description": "Gwida sħiħa għal St. George's Square f'Valletta, Malta. Skopri din il-pjazza storika, inklużi l-post, l-istorja, u l-informazzjoni għall-viżitaturi."
+  },
+  "header": {
+    "home": "Id-Dar",
+    "gallery": "Gallarija",
+    "reviews": "Fehmiet",
+    "map": "Mappa",
+    "backToHome": "Lura gid-dar"
+  },
+  "hero": {
+    "title": "St. George's Square",
+    "subtitle": "Post Storiku · Valletta",
+    "rating": "4.6",
+    "reviewCount": "5,232 fehmiet",
+    "type": "Pjazza Storika",
+    "openMaps": "Ara fuq Google Maps"
+  },
+  "intro": {
+    "title": "Skopri St. George's Square",
+    "description": "St. George's Square, magħrufa wkoll bħala Misraħ San Ġorġ, hija waħda mill-iktar pjazzi famużi f'Valletta, il-belt kapitali ta' Malta. Tinsab fil-qalba tal-belt u hija mdawra b'bini storiċi importanti.",
+    "visitGuide": {
+      "title": "Titjib għall-Viżita",
+      "items": [
+        "Żur il-pjazza filgħodu kmieni jew filgħaxija biex tevita l-ħarxa tax-xemx.",
+        "Ibni żjarat f'kuntist ta' attrazzjonijiet storiċi fil-qrib bħall-Katidral ta' San Ġwann.",
+        "Goddi l-arkitettura Barokka tal-bini fil-limiti tal-pjazza."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Punti Ewlenin",
+      "items": [
+        "Arkitettura Barokka",
+        "Katidral ta' San Ġwann fil-viċin",
+        "Post ċentrali f'Valletta",
+        "Post popolari għall-avvenimenti"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Dwar St. George's Square",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Sfond Storiku",
+        "content": "St. George's Square inbniet fl-istess ħin meta nbniet Valletta fl-1566. Il-pjazza kienet parti mill-ippjanar oriġinali tal-belt u għandha importanza storika kbira fil-ħajja ta' Malta."
+      },
+      {
+        "id": "layout",
+        "title": "Arkitettura u Disinn",
+        "content": "Il-pjazza hija mdawra b'bini Barokk splendidu, inkluż il-Katidral ta' San Ġwann u bini amministrattivi storiċi. Id-disinn tagħha jirrifletti l-arkitettura tal-belt kapitali."
+      },
+      {
+        "id": "culture",
+        "title": "Sinifikat Kulturali",
+        "content": "St. George's Square hija ċentrali għall-avvenimenti kulturali f'Malta. Spiss tintuża għal kunċerti, avvenimenti pubbliċi, u ċelebrazzjonijiet nazzjonali."
+      },
+      {
+        "id": "preservation",
+        "title": "Preservazzjoni",
+        "content": "Il-pjazza u l-bini fil-limiti tagħha huma protetti taħt il-liġijiet tal-wirt kulturali ta' Malta. L-Għaqda tal-Wirt tieħu ħsieb il-manutenzjoni tagħhom."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Informazzjoni Bażika",
+    "officialName": "Isem Uffiċjali",
+    "officialNameValue": "St. George's Square (Misraħ San Ġorġ)",
+    "type": "Tip ta' Attrazzjoni",
+    "typeValue": "Pjazza Storika / Siti Storiċi",
+    "country": "Pajjiż",
+    "countryValue": "Malta",
+    "city": "Belt",
+    "cityValue": "Valletta",
+    "googleRating": "Rating fuq Google",
+    "googleRatingValue": "4.6 (5,232)",
+    "address": "Indirizz",
+    "addressValue": "VGX7+JCW, Republic St, Valletta, Malta",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "VGX7+JCW Valletta, Malta"
+  },
+  "hours": {
+    "title": "Ħinijiet ta' Żjara",
+    "park": "Aċċess għall-Pjazza",
+    "parkTime": "Miftuħa 24 siegħa kuljum",
+    "bestTime": "Aħjar Ħin biex Żur",
+    "bestTimeSpring": "Rebbiegħa: Temperatura pjaċevoli, idealli għall-mixi",
+    "bestTimeSummer": "Sajf: Aktar frisk filgħodu u filgħaxija",
+    "bestTimeAutumn": "Harifa: Tempu tajjeb għal żjarat twal",
+    "bestTimeWinter": "Xitwa: Inqas turisti, ambjent rilassat",
+    "tip": "Il-pjazza hija miftuħa 24 siegħa, iżda huwa rakkomandat li żżurha bi d-dawl biex tieħu l-aħjar esperjenza."
+  },
+  "transport": {
+    "title": "Kif Taqsam Hemn",
+    "fromCenter": "Miċ-Ŋentru ta' Valletta",
+    "fromCenterDesc": "Il-pjazza tinsab fil-qalba ta' Valletta, faċilment aċċessibbli bi kull miexja.",
+    "fromStation": "Mill-Stazzjon tal-Karozzi tal-Linja",
+    "fromStationDesc": "Madwar 10 minuti mix-xellug mix-xellug mill-Valletta Bus Terminal.",
+    "fromAirport": "Mill-Ajruport",
+    "fromAirportDesc": "Madwar 30 minuta bil-karozza mill-Ajruport ta' Malta, uża l-Xarabank X4.",
+    "publicTransport": "Trasport Pubbliku",
+    "publicTransportDesc": "Il-pjazza hija servuta minn bosta linji tal-Xarabank li jieqfu fil-viċin.",
+    "walking": "Mixi",
+    "walkingDesc": "L-aħjar mod biex tesplora Valletta huwa bil-mixi, peress li l-belt hija żgħira u kompatta.",
+    "driving": "Bil-Karozza",
+    "drivingDesc": "Sahansitra li Valletta għandha toroq dojoq, huwa rakkomandat li tilqa' fil-parkeġġi pubbliċi fil-belt u timxi."
+  },
+  "route": {
+    "title": "Rotta Rakkomandata",
+    "overview": "Esperjenza l-istorja u l-kultura ta' Valletta f'din ir-rota.",
+    "steps": [
+      "Ibda minn St. George's Square u ammira l-arkitettura Barokka tagħha",
+      "Żur il-Katidral ta' San Ġwann fil-viċin",
+      "Mixi lejn il-Palazz il-Gran Mastru",
+      "Esplora s-Suq il-Ġdid (Merchants Street)",
+      "Spiċċa b'veduta tal-Port il-Kbir minn Upper Barrakka Gardens"
+    ]
+  },
+  "photoSpots": {
+    "title": "L-Aħjar Postijiet għall-Foti",
+    "spots": [
+      {
+        "title": "Ċentru tal-Pjazza",
+        "description": "Iffota l-veduti tal-arkitettura Barokka tul il-pjazza.",
+        "location": "Ċentru tal-Pjazza",
+        "image": "/gallery/st-georges-square (1).jpg"
+      },
+      {
+        "title": "Il-Katidral ta' San Ġwann",
+        "description": "Post ideali għal fotografiji tal-katidral famuż fil-viċin.",
+        "location": "Viċin tal-Pjazza",
+        "image": "/gallery/st-georges-square (2).jpg"
+      },
+      {
+        "title": "L-Arkate Storiċi",
+        "description": "Iffota d-dettalji arkitettoniċi tal-bini storiċi fil-limiti.",
+        "location": "Maġenb il-Pjazza",
+        "image": "/gallery/st-georges-square (3).jpg"
+      },
+      {
+        "title": "Il-Pjazza bil-Lejl",
+        "description": "Żjarat il-pjazza fil-lejl meta tispikka bit-tidwil ambjentali.",
+        "location": "Filgħaxija/Lejl",
+        "image": "/gallery/st-georges-square (4).jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Gallarija tal-Foti",
+    "subtitle": "Veduti Spettakolari ta' St. George's Square",
+    "captions": [
+      "Pjazza minn fuq",
+      "Arkitettura Barokka",
+      "Il-Katidral ta' San Ġwann",
+      "Bini Storiku",
+      "Dettalji tal-Ġebel",
+      "Ħajja ta' kuljum",
+      "L-arkate",
+      "Palmi u bini",
+      "Il-lejl fil-pjazza",
+      "Umbrella paint",
+      "Funtani",
+      "Avvenimenti",
+      "St岁 Pjazza Isqof",
+      "Barumijiet Mediterranji",
+      "Kafetteriji fil-limiti"
+    ],
+    "viewAll": "Ara fuq Google Maps",
+    "showAll": "Urī l-Foti Kollha",
+    "showLess": "Urī Inqas"
+  },
+  "reviews": {
+    "title": "Fehmiet tal-Viżitaturi",
+    "declaration": "Il-fehmiet jistgħu jinħarsu permezz ta' Google Maps.",
+    "moreReviews": "Ara iktar fehmiet fuq Google Maps"
+  },
+  "mapSection": {
+    "title": "Post fuq il-Mappa",
+    "subtitle": "VGX7+JCW, Republic St, Valletta, Malta",
+    "openMaps": "Ara fuq Google Maps"
+  },
+  "footer": {
+    "brandName": "St. George's Square",
+    "brandSubtitle": "Post Storiku · Valletta",
+    "rights": "© 2026 Proġett Indipendenti ta' Riċerka dwar it-Turiżmu · Drittijiet kollha riservati.",
+    "privacy": "Politika tal-Privatezza",
+    "terms": "Termini tas-Servizz",
+    "cookies": "Impostazzjonijiet tal-Cookies",
+    "officialResourcesTitle": "Risorseżjali u Informazzjoni",
+    "officialLinks": {
+      "heritageMalta": "Heritage Malta",
+      "nationalInventory": "National Inventory of Cultural Property",
+      "visitMalta": "Malta Tourism Authority",
+      "vallettaCity": "Valletta City Council",
+      "planningAuthority": "Planning Authority Malta"
+    },
+    "disclaimer": "Dan il-websajt huwa proġett indipendenti ta' informazzjoni turistika. Aħna m'aħniex affiljati mal-gvern lokali jew kwalunkwe aġenzija uffiċjali oħra."
+  },
+  "privacy": {
+    "title": "Politika tal-Privatezza",
+    "lastUpdated": "Aġġornat: Mejju 2026",
+    "sections": [
+      {
+        "title": "Informazzjoni dwar il-Ġbir",
+        "content": "Meta żżur il-websajt tagħna, jista' jkun li naħdu informazzjoni bażika dwar it-tagħmir tiegħek, il-browser u l-imġieba tal-brimming. Dan l-informazzjoni m'aħux jinkludi l-identità personali tiegħek."
+      },
+      {
+        "title": "Użu ta' Cookies",
+        "content": "Aħna nużaw cookies biex nanalizzaw it-traffiku tal-websajt u noptimizżaw il-kontenut. Tista' timmaniġġa l-preferenzi tiegħek fi kwalunkwe ħin permezz tal-ghażla ta' Cookie Settings qiegħda fil-qiegħ tal-websajt tagħna."
+      },
+      {
+        "title": "Sigurezza u Protezzjoni tad-Data",
+        "content": "Aħna impenjati li nipproteġu s-sigurezza tad-data tal-privatezza tiegħek u ma nixtruwx, ma nikriwx u lanqas in-negozjaw id-data tal-brimming tiegħek ma' kull organizzazzjoni kummerċjali terza."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Termini tas-Servizz",
+    "lastUpdated": "Aġġornat: Mejju 2026",
+    "sections": [
+      {
+        "title": "Kontenut u Użu tal-Websajt",
+        "content": "Dan il-websajt jipprovdi informazzjoni dwar it-travel, it-trasport u l-istorja ta' St. George's Square. Il-kontenut kollu huwa biss għall-riferiment. L-ħinijiet ta' ftuħ reali u l-informazzjoni dwar it-tikek għall-attrazzjonijiet jistgħu jinbidlu fi kwalunkwe ħin; iċekkja l-annunzji uffiċjali."
+      },
+      {
+        "title": "Proprjetà Intelletwali",
+        "content": "It-test, l-immadġini u d-disinji tal-layout fuq dan il-websajt huma protetti minn copyright. Mingħajr permess miktub b'mod espliċitu, ħadd ma jista' juża l-kontenut tal-websajt għall-iskop ta' qligħ kummerċjali."
+      },
+      {
+        "title": "Dikjarazzjoni ta' Esenzjoni minn Responsabbiltà",
+        "content": "Aħna nagħmlu l-aħjar sforz tagħna biex niżguraw l-eżattezza u t-timelicità tal-informazzjoni, iżda m'aħniex responsabbli legalment għal kwalunkwe dewmien fit-triq jew telfiet ikkawżati direttament jew indirettament mill-użu tal-informazzjoni pprovuta fuq dan il-websajt."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Impostazzjonijiet tal-Cookies",
+    "description": "Immaniġġa l-preferenzi tal-cookies tiegħek.",
+    "essential": {
+      "title": "Cookies Essenzjali",
+      "description": "Meħtieġa għall-funzjonalità bażika tal-websajt u mhuwiex jista' jintefa'.",
+      "badge": "Dejjem attivi"
+    },
+    "analytics": {
+      "title": "Analisi",
+      "description": "Jgħinuna nifhmu l-imġieba tal-viżitaturi u ntejbu l-websajt."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Użati għat-tracking bejn siti u l-kunsinna ta' reklami personalizzat."
+    },
+    "save": "Issalva l-Preferenzi",
+    "saved": "Preferenzi nsalvati!"
+  }
+}

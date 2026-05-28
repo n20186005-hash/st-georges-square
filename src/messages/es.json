@@ -1,0 +1,334 @@
+{
+  "meta": {
+    "title": "Conjunto Monumental de la Alcazaba de Almería",
+    "description": "Guía completa del Conjunto Monumental de la Alcazaba de Almería. Descubra esta icónica fortaleza morisca en Andalucía, España, incluyendo ubicación e información para visitantes."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Opiniones",
+    "map": "Mapa",
+    "backToHome": "Volver al Inicio"
+  },
+  "hero": {
+    "title": "Alcazaba de Almería",
+    "subtitle": "Monumento · Almería",
+    "rating": "4.6",
+    "reviewCount": "15,710 opiniones",
+    "type": "Castillo",
+    "openMaps": "Ver en Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/MWYBp4WMmkk3NWgR7"
+  },
+  "intro": {
+    "title": "Descubre la Alcazaba",
+    "description": "El Conjunto Monumental de la Alcazaba de Almería es una de las fortalezas moriscas más grandes que se conservan en España. Ubicado en Almería, Andalucía, este magnífico complejo monumental cuenta con una rica historia y domina la ciudad y el mar Mediterráneo, ofreciendo una experiencia histórica y cultural inmersiva.",
+    "visitGuide": {
+      "title": "Consejos de Visita",
+      "items": [
+        "Use zapatos cómodos para caminar, ya que la fortaleza tiene muchos caminos empedrados y escaleras.",
+        "Durante el verano, protéjase del sol y visite temprano en la mañana o al final de la tarde para evitar el calor.",
+        "La fortaleza ofrece excelentes vistas panorámicas de la ciudad de Almería y su puerto."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Destacados",
+      "items": [
+        "Murallas y torres moriscas",
+        "Pintorescos jardines islámicos",
+        "Vistas panorámicas de la ciudad",
+        "Yacimiento arqueológico histórico"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Sobre la Alcazaba",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Contexto Histórico",
+        "content": "La Alcazaba fue mandada construir en el siglo X por Abderramán III, el gobernante de Al-Ándalus. Inicialmente no solo fue una fortaleza militar, sino también el centro político y administrativo local, testigo de la prosperidad de Almería durante el dominio islámico."
+      },
+      {
+        "id": "layout",
+        "title": "Arquitectura y Distribución",
+        "content": "El castillo está dividido en tres recintos principales: el primer recinto fue una zona residencial civil y ahora es un hermoso jardín; el segundo recinto era el núcleo histórico, que contiene ruinas de palacios, baños y mezquitas; el tercer recinto es una fortaleza defensiva añadida por los Reyes Católicos después de la Reconquista."
+      },
+      {
+        "id": "culture",
+        "title": "Significado Cultural",
+        "content": "Como importante patrimonio cultural de Andalucía (BIC), la Alcazaba combina estilos arquitectónicos islámicos y cristianos. No solo es un símbolo de la zona, sino que también ha servido como lugar de rodaje de famosas películas y series de televisión (como Juego de Tronos)."
+      },
+      {
+        "id": "preservation",
+        "title": "Arqueología y Conservación",
+        "content": "Este es un patrimonio histórico protegido clave de la región andaluza. Sucesivas excavaciones arqueológicas continúan revelando los ricos estratos históricos de este complejo, y el gobierno lleva a cabo proyectos de restauración continuos para proteger estos preciosos monumentos."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Información Básica",
+    "officialName": "Nombre Oficial",
+    "officialNameValue": "Conjunto Monumental de la Alcazaba de Almería",
+    "type": "Tipo de Atracción",
+    "typeValue": "Castillo / Monumento Histórico",
+    "country": "País",
+    "countryValue": "España",
+    "city": "Ciudad",
+    "cityValue": "Almería",
+    "googleRating": "Valoración de Google",
+    "googleRatingValue": "4.6 (15,710)",
+    "address": "Dirección",
+    "addressValue": "RGRH+6W, C. Almanzor, s/n, 04002 Almería, Spain",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "RGRH+6W Almería, Spain",
+    "phone": "Teléfono",
+    "phoneValue": "+34 950 80 10 08"
+  },
+  "hours": {
+    "title": "Horario de Visita",
+    "park": "Acceso al Recinto",
+    "parkTime": "Abierto de martes a domingo (el horario varía según la temporada, cerrado los lunes)",
+    "bestTime": "Mejor Época para Visitar",
+    "bestTimeSpring": "Primavera: Clima agradable, jardines en flor",
+    "bestTimeSummer": "Verano: Más fresco por las mañanas y tardes, evite el calor del mediodía",
+    "bestTimeAutumn": "Otoño: Clima templado, perfecto para paseos tranquilos",
+    "bestTimeWinter": "Invierno: Menos turistas, apreciación tranquila de los monumentos",
+    "tip": "Tenga en cuenta que los horarios de apertura específicos pueden variar según la temporada y los días festivos. Se recomienda planificar su visita en consecuencia."
+  },
+  "tickets": {
+    "title": "Información de Entradas",
+    "park": "Visita al Recinto",
+    "parkPrice": "Gratis para ciudadanos de la UE, otros visitantes suelen pagar una tarifa nominal (alrededor de 1,5 EUR)",
+    "parking": "Aparcamiento",
+    "parkingPrice": "Aparcamiento público de pago disponible en las inmediaciones",
+    "guided": "Visitas Guiadas",
+    "guidedPrice": "Visitas guiadas de pago en profundidad disponibles en varios idiomas"
+  },
+  "transport": {
+    "title": "Cómo Llegar",
+    "fromCenter": "Desde el Centro de Almería",
+    "fromCenterDesc": "La fortaleza se encuentra sobre el casco antiguo, a poca distancia a pie del centro de la ciudad, aunque implica una subida.",
+    "fromStation": "Desde la Estación de Tren/Autobús",
+    "fromStationDesc": "A unos 2 km de la Estación Intermodal de Almería, accesible en autobús municipal o taxi.",
+    "fromAirport": "Desde el Aeropuerto",
+    "fromAirportDesc": "A unos 10 km del Aeropuerto de Almería, se recomienda tomar un taxi o autobús del aeropuerto hasta el centro de la ciudad y hacer transbordo.",
+    "publicTransport": "Transporte Público",
+    "publicTransportDesc": "Varias líneas de autobuses locales paran cerca de la fortaleza.",
+    "walking": "A Pie",
+    "walkingDesc": "Camine por las callejuelas históricas de la Medina para disfrutar de un paisaje único.",
+    "driving": "En Coche",
+    "drivingDesc": "Las calles alrededor de la fortaleza son estrechas; se recomienda aparcar en parkings públicos de la ciudad y subir a pie."
+  },
+  "route": {
+    "title": "Ruta Recomendada",
+    "overview": "Un viaje a través de los tres recintos y experimente la evolución de la historia.",
+    "steps": [
+      "Entre por la puerta principal y pasee por los hermosos jardines del primer recinto",
+      "Entre en el segundo recinto para explorar las ruinas del palacio y los aljibes islámicos",
+      "Suba al Muro de la Vela para disfrutar de una vista panorámica de la ciudad",
+      "Entre en el tercer recinto para ver la sólida fortaleza construida durante la época de los Reyes Católicos",
+      "Disfrute de la vista del puerto y del mar Mediterráneo desde el mirador de la muralla norte"
+    ]
+  },
+  "photoSpots": {
+    "title": "Mejores Lugares para Fotos",
+    "spots": [
+      {
+        "title": "Jardines del Primer Recinto",
+        "description": "Un fondo perfecto con piscinas de estilo islámico y exuberante vegetación.",
+        "location": "Primer Recinto",
+        "image": "/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (1).jpg"
+      },
+      {
+        "title": "Mirador del Muro de la Vela",
+        "description": "Desde aquí, capture las icónicas paredes blancas de Almería y el azul del mar Mediterráneo.",
+        "location": "Entre el Segundo y Tercer Recinto",
+        "image": "/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (2).jpg"
+      },
+      {
+        "title": "Torre Principal del Tercer Recinto",
+        "description": "La magnífica torre de estilo cristiano muestra las espectaculares defensas militares.",
+        "location": "Tercer Recinto",
+        "image": "/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (3).jpg"
+      },
+      {
+        "title": "Ruinas de la Muralla Antigua",
+        "description": "Capture el peso de la historia y magníficos atardeceres a lo largo de las sinuosas murallas antiguas.",
+        "location": "Perímetro Exterior",
+        "image": "/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (4).jpg"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Guía de Alojamiento",
+    "hotels": [
+      {
+        "name": "Casco Antiguo de Almería",
+        "desc": "Alojarse en el casco antiguo permite un fácil acceso a pie a la fortaleza, rodeado de auténticos bares de tapas.",
+        "price": "Recomendado"
+      },
+      {
+        "name": "Cerca del Paseo Marítimo",
+        "desc": "Si le encantan las vistas al mar y las playas, esta es una opción ideal, a un corto trayecto en coche de la fortaleza.",
+        "price": "Recomendado"
+      },
+      {
+        "name": "Zona Comercial del Centro",
+        "desc": "Ofrece modernas instalaciones hoteleras y transporte conveniente, perfecto para ir de compras y explorar la ciudad.",
+        "price": "Recomendado"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galería de Fotos",
+    "subtitle": "Vistas Espectaculares de la Alcazaba",
+    "captions": [
+      "Panorámica de la fortaleza",
+      "Jardines del primer recinto",
+      "Murallas moriscas",
+      "Torres antiguas",
+      "Piscinas islámicas",
+      "Vista general de la ciudad",
+      "Fortaleza del tercer recinto",
+      "Ruinas históricas",
+      "Resplandor del atardecer",
+      "Ruinas del palacio",
+      "Puertas antiguas",
+      "Paisaje del puerto",
+      "Muros de piedra moteados",
+      "Defensas sólidas",
+      "Caminos sinuosos",
+      "Vista del campanario",
+      "Vista del mar Mediterráneo",
+      "Iluminación nocturna",
+      "Patios tranquilos"
+    ],
+    "viewAll": "Ver en Google Maps",
+    "showAll": "Ver Todas las Fotos",
+    "showLess": "Mostrar Menos"
+  },
+  "reviews": {
+    "title": "Opiniones de Visitantes",
+    "declaration": "Las opiniones se pueden ver a través de Google Maps.",
+    "moreReviews": "Ver más opiniones en Google Maps",
+    "items": [
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "date": "2026-04-12",
+        "text": "Un monumento histórico espectacular, muy bien conservado. Las vistas de Almería desde arriba son inmejorables."
+      },
+      {
+        "name": "Laura G.",
+        "rating": 5,
+        "date": "2026-03-28",
+        "text": "Los jardines en el primer recinto son impresionantes; las fuentes y plantas son muy relajantes. ¡Vale la pena la visita!"
+      },
+      {
+        "name": "David R.",
+        "rating": 4,
+        "date": "2026-05-01",
+        "text": "Profundo significado histórico. La subida es un poco agotadora, pero ver la fortaleza del tercer recinto y el mar hace que todo valga la pena."
+      },
+      {
+        "name": "Sarah W.",
+        "rating": 5,
+        "date": "2026-02-15",
+        "text": "Uno de los castillos moriscos más magníficos que he visto en Andalucía. No tan concurrido como Granada, lo que permite una gran experiencia."
+      },
+      {
+        "name": "Antonio V.",
+        "rating": 5,
+        "date": "2025-10-22",
+        "text": "Muy recomendable para los amantes de la historia y la arquitectura. El hecho de que Juego de Tronos se filmara aquí también es un punto destacado divertido."
+      },
+      {
+        "name": "Elena P.",
+        "rating": 5,
+        "date": "2025-08-09",
+        "text": "Recuerde llevar agua si visita en verano. Las vistas son impresionantes y todo el complejo te hace sentir la prosperidad de hace mil años."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación en el Mapa",
+    "subtitle": "C. Almanzor, s/n, 04002 Almería, Spain",
+    "openMaps": "Ver en Google Maps"
+  },
+  "footer": {
+    "brandName": "Alcazaba de Almería",
+    "brandSubtitle": "Monumento Histórico · Almería",
+    "rights": "© 2026 Proyecto Independiente de Investigación Turística · Todos los Derechos Reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Configuración de Cookies",
+    "officialResourcesTitle": "Recursos e Información Relacionados",
+    "officialLinks": {
+      "spain": "Turespaña",
+      "andalucia": "Turismo y Deporte de Andalucía",
+      "almeriaProvince": "Turismo de la Provincia de Almería",
+      "almeriaCity": "Turismo de Almería",
+      "iaph": "Instituto Andaluz del Patrimonio Histórico"
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No estamos afiliados con el gobierno local ni con ninguna otra agencia oficial."
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: Mayo 2026",
+    "sections": [
+      {
+        "title": "Recopilación de Información",
+        "content": "Cuando visita nuestro sitio web, podemos recopilar automáticamente información básica sobre su dispositivo, navegador y comportamiento de navegación para proporcionar una mejor experiencia de usuario. Esta información no contiene su identidad personal."
+      },
+      {
+        "title": "Uso de Cookies",
+        "content": "Utilizamos cookies para analizar el tráfico del sitio web y optimizar el contenido de la página. Puede gestionar sus preferencias en cualquier momento a través de la opción Configuración de Cookies en la parte inferior de nuestro sitio."
+      },
+      {
+        "title": "Seguridad y Protección de Datos",
+        "content": "Nos comprometemos a proteger la seguridad de sus datos de privacidad y no venderemos, alquilaremos ni comercializaremos sus datos de navegación a organizaciones comerciales de terceros."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: Mayo 2026",
+    "sections": [
+      {
+        "title": "Contenido y Uso del Sitio Web",
+        "content": "Este sitio web proporciona información de viaje, transporte e historia sobre la Alcazaba de Almería. Todo el contenido es solo para referencia. Los horarios de apertura reales y la información de entradas para las atracciones pueden cambiar en cualquier momento; consulte los anuncios oficiales."
+      },
+      {
+        "title": "Propiedad Intelectual",
+        "content": "El texto, las imágenes y los diseños de este sitio web están protegidos por derechos de autor. Sin permiso explícito por escrito, nadie puede utilizar el contenido del sitio web para fines comerciales."
+      },
+      {
+        "title": "Descargo de Responsabilidad",
+        "content": "Hacemos todo lo posible para garantizar la precisión y puntualidad de la información, pero no asumimos responsabilidad legal por retrasos en el viaje o pérdidas causadas directa o indirectamente por el uso de la información proporcionada en este sitio web."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de Cookies",
+    "description": "Gestione sus preferencias de cookies.",
+    "essential": {
+      "title": "Cookies Esenciales",
+      "description": "Necesarias para la funcionalidad básica del sitio web y no se pueden desactivar.",
+      "badge": "Siempre activas"
+    },
+    "analytics": {
+      "title": "Análisis",
+      "description": "Nos ayudan a comprender el comportamiento de los visitantes y a mejorar el sitio web."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Se utilizan para el seguimiento entre sitios y la entrega de anuncios personalizados."
+    },
+    "save": "Guardar Preferencias",
+    "saved": "¡Preferencias guardadas!"
+  },
+  "officialManagement": {
+    "title": "Sobre la Alcazaba",
+    "text": "El Conjunto Monumental de la Alcazaba de Almería es un monumento importante administrado directamente por la región de Andalucía, España. Este patrimonio cultural está estrictamente protegido y gestionado diariamente por la Junta de Andalucía y agencias locales de patrimonio histórico."
+  }
+}

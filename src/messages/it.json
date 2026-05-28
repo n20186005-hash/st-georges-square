@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "title": "St. George's Square (Misraħ San Ġorġ)",
+    "description": "Guida completa per St. George's Square a Valletta, Malta. Scopri questa piazza storica, inclusi luogo, storia e informazioni per i visitatori."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Galleria",
+    "reviews": "Recensioni",
+    "map": "Mappa",
+    "backToHome": "Torna alla Home"
+  },
+  "hero": {
+    "title": "St. George's Square",
+    "subtitle": "Luogo Storico · Valletta",
+    "rating": "4.6",
+    "reviewCount": "5.232 recensioni",
+    "type": "Piazza Storica",
+    "openMaps": "Visualizza su Google Maps"
+  },
+  "intro": {
+    "title": "Scopri St. George's Square",
+    "description": "St. George's Square, conosciuta anche come Misraħ San Ġorġ, è una delle piazze più famose di Valletta, la capitale di Malta. Si trova nel cuore della città ed è circondata da importanti edifici storici.",
+    "visitGuide": {
+      "title": "Consigli per la Visita",
+      "items": [
+        "Visita la piazza al mattino presto o al pomeriggio per evitare il caldo estivo.",
+        "Combina la visita con attrazioni storiche nelle vicinanze come la Cattedrale di San Giovanni.",
+        "Goditi l'architettura barocca degli edifici che circondano la piazza."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Punti Salienti",
+      "items": [
+        "Architettura Barocca",
+        "Cattedrale di San Giovanni nelle vicinanze",
+        "Posizione centrale a Valletta",
+        "Luogo popolare per eventi"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Informazioni su St. George's Square",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Contesto Storico",
+        "content": "St. George's Square è stata costruita nello stesso periodo in cui è stata fondata Valletta nel 1566. La piazza faceva parte del piano urbanistico originale della città e ha una grande importanza storica nella vita di Malta."
+      },
+      {
+        "id": "layout",
+        "title": "Architettura e Design",
+        "content": "La piazza è circondata da splendidi edifici barocchi, inclusa la Cattedrale di San Giovanni e edifici amministrativi storici. Il design riflette l'architettura della capitale."
+      },
+      {
+        "id": "culture",
+        "title": "Significato Culturale",
+        "content": "St. George's Square è centrale per gli eventi culturali a Malta. Spesso viene utilizzata per concerti, eventi pubblici e celebrazioni nazionali."
+      },
+      {
+        "id": "preservation",
+        "title": "Conservazione",
+        "content": "La piazza e gli edifici circostanti sono protetti dalle leggi sul patrimonio culturale di Malta. Il Dipartimento del Patrimonio si prende cura della loro manutenzione."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Informazioni di Base",
+    "officialName": "Nome Ufficiale",
+    "officialNameValue": "St. George's Square (Misraħ San Ġorġ)",
+    "type": "Tipo di Attrazione",
+    "typeValue": "Piazza Storica / Sito Storico",
+    "country": "Paese",
+    "countryValue": "Malta",
+    "city": "Città",
+    "cityValue": "Valletta",
+    "googleRating": "Valutazione Google",
+    "googleRatingValue": "4.6 (5.232)",
+    "address": "Indirizzo",
+    "addressValue": "VGX7+JCW, Republic St, Valletta, Malta",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "VGX7+JCW Valletta, Malta"
+  },
+  "hours": {
+    "title": "Orari di Visita",
+    "park": "Accesso alla Piazza",
+    "parkTime": "Aperto 24 ore su 24, tutti i giorni",
+    "bestTime": "Miglior Periodo per Visita",
+    "bestTimeSpring": "Primavera: Clima piacevole, ideale per passeggiate",
+    "bestTimeSummer": "Estate: Più fresco al mattino e al pomeriggio",
+    "bestTimeAutumn": "Autunno: Tempo temperato, perfetto per lunghe visite",
+    "bestTimeWinter": "Inverno: Meno turisti, atmosfera rilassata",
+    "tip": "La piazza è aperta 24 ore, ma si consiglia di visitarla di giorno per la migliore esperienza."
+  },
+  "transport": {
+    "title": "Come Arrivare",
+    "fromCenter": "Dal Centro di Valletta",
+    "fromCenterDesc": "La piazza si trova nel cuore di Valletta, facilmente accessibile a piedi.",
+    "fromStation": "Dalla Stazione degli Autobus",
+    "fromStationDesc": "Circa 10 minuti a piedi dal Terminal degli Autobus di Valletta.",
+    "fromAirport": "Dall'Aeroporto",
+    "fromAirportDesc": "Circa 30 minuti in auto dall'Aeroporto di Malta, utilizza l'autobus X4.",
+    "publicTransport": "Trasporto Pubblico",
+    "publicTransportDesc": "La piazza è servita da molte linee di autobus che fermano nelle vicinanze.",
+    "walking": "A Piedi",
+    "walkingDesc": "Il modo migliore per esplorare Valletta è a piedi, poiché la città è piccola e compatta.",
+    "driving": "In Auto",
+    "drivingDesc": "Data la presenza di strade strette a Valletta, è consigliato parcheggiare nei parcheggi pubblici della città e proseguire a piedi."
+  },
+  "route": {
+    "title": "Itinerario Consigliato",
+    "overview": "Vivi la storia e la cultura di Valletta in questo itinerario.",
+    "steps": [
+      "Inizia da St. George's Square e ammira la sua architettura barocca",
+      "Visita la Cattedrale di San Giovanni nelle vicinanze",
+      "Passeggia verso il Palazzo del Gran Maestro",
+      "Esplora il Mercato Nuovo (Merchants Street)",
+      "Concludi con una vista del Grand Harbour dai Giardini Upper Barrakka"
+    ]
+  },
+  "photoSpots": {
+    "title": "Migliori Punti Fotografici",
+    "spots": [
+      {
+        "title": "Centro della Piazza",
+        "description": "Scatta foto dell'architettura barocca lungo la piazza.",
+        "location": "Centro della Piazza",
+        "image": "/gallery/st-georges-square (1).jpg"
+      },
+      {
+        "title": "Cattedrale di San Giovanni",
+        "description": "Posizione ideale per fotografare la famosa cattedrale nelle vicinanze.",
+        "location": "Vicinanze della Piazza",
+        "image": "/gallery/st-georges-square (2).jpg"
+      },
+      {
+        "title": "Architravi Storiche",
+        "description": "Cattura i dettagli architettonici degli edifici storici circostanti.",
+        "location": "Laterale della Piazza",
+        "image": "/gallery/st-georges-square (3).jpg"
+      },
+      {
+        "title": "Piazza di Notte",
+        "description": "Visita la piazza di notte quando è illuminata dall'atmosfera ambientale.",
+        "location": "Sera/Notte",
+        "image": "/gallery/st-georges-square (4).jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galleria Fotografica",
+    "subtitle": "Viste Spettacolari di St. George's Square",
+    "captions": [
+      "Panoramica della piazza",
+      "Architettura barocca",
+      "Cattedrale di San Giovanni",
+      "Edifici storici",
+      "Dettagli in pietra",
+      "Vita quotidiana",
+      "Architravi",
+      "Palme e edifici",
+      "Piazza di notte",
+      "Ombrelli colorati",
+      "Fontane",
+      "Eventi",
+      "Piazza del Vescovo",
+      "Balconi mediterranei",
+      "Caffè nelle vicinanze"
+    ],
+    "viewAll": "Visualizza su Google Maps",
+    "showAll": "Mostra Tutte le Foto",
+    "showLess": "Mostra Meno"
+  },
+  "reviews": {
+    "title": "Recensioni dei Visitatori",
+    "declaration": "Le recensioni possono essere visualizzate tramite Google Maps.",
+    "moreReviews": "Visualizza più recensioni su Google Maps"
+  },
+  "mapSection": {
+    "title": "Posizione sulla Mappa",
+    "subtitle": "VGX7+JCW, Republic St, Valletta, Malta",
+    "openMaps": "Visualizza su Google Maps"
+  },
+  "footer": {
+    "brandName": "St. George's Square",
+    "brandSubtitle": "Luogo Storico · Valletta",
+    "rights": "© 2026 Progetto Indipendente di Ricerca Turistica · Tutti i diritti riservati.",
+    "privacy": "Privacy",
+    "terms": "Termini di Servizio",
+    "cookies": "Impostazioni Cookie",
+    "officialResourcesTitle": "Risorse e Informazioni Ufficiali",
+    "officialLinks": {
+      "heritageMalta": "Heritage Malta",
+      "nationalInventory": "National Inventory of Cultural Property",
+      "visitMalta": "Malta Tourism Authority",
+      "vallettaCity": "Valletta City Council",
+      "planningAuthority": "Planning Authority Malta"
+    },
+    "disclaimer": "Questo sito web è un progetto indipendente di informazione turistica. Non siamo affiliati con il governo locale o qualsiasi altra agenzia ufficiale."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Ultimo aggiornamento: Maggio 2026",
+    "sections": [
+      {
+        "title": "Raccolta di Informazioni",
+        "content": "Quando visiti il nostro sito web, potremmo raccogliere automaticamente informazioni di base sul tuo dispositivo, browser e comportamento di navigazione per fornire una migliore esperienza utente. Queste informazioni non contengono la tua identità personale."
+      },
+      {
+        "title": "Uso di Cookie",
+        "content": "Utilizziamo i cookie per analizzare il traffico del sito web e ottimizzare il contenuto della pagina. Puoi gestire le tue preferenze in qualsiasi momento attraverso l'opzione Impostazioni Cookie in fondo al nostro sito."
+      },
+      {
+        "title": "Sicurezza e Protezione dei Dati",
+        "content": "Siamo impegnati a proteggere la sicurezza dei tuoi dati di privacy e non venderemo, noleggeremo o commercializzeremo i tuoi dati di navigazione a qualsiasi organizzazione commerciale di terze parti."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Termini di Servizio",
+    "lastUpdated": "Ultimo aggiornamento: Maggio 2026",
+    "sections": [
+      {
+        "title": "Contenuto e Uso del Sito Web",
+        "content": "Questo sito web fornisce informazioni di viaggio, trasporto e storia su St. George's Square. Tutto il contenuto è solo per riferimento. Gli orari di apertura reali e le informazioni sui biglietti per le attrazioni possono cambiare in qualsiasi momento; consulta gli annunci ufficiali."
+      },
+      {
+        "title": "Proprietà Intellettuale",
+        "content": "Il testo, le immagini e i disegni di questo sito web sono protetti da copyright. Senza permesso esplicito per iscritto, nessuno può utilizzare il contenuto del sito web per scopi commerciali."
+      },
+      {
+        "title": "Dichiarazione di Non Responsabilità",
+        "content": "Facciamo del nostro meglio per garantire l'accuratezza e la tempestività delle informazioni, ma non assumiamo responsabilità legale per ritardi di viaggio o perdite causate direttamente o indirettamente dall'uso delle informazioni fornite su questo sito web."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Impostazioni Cookie",
+    "description": "Gestisci le tue preferenze sui cookie.",
+    "essential": {
+      "title": "Cookie Essenziali",
+      "description": "Necessari per la funzionalità di base del sito web e non possono essere disattivati.",
+      "badge": "Sempre attivi"
+    },
+    "analytics": {
+      "title": "Analisi",
+      "description": "Ci aiutano a capire il comportamento dei visitatori e a migliorare il sito web."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Utilizzati per il monitoraggio tra siti e la consegna di annunci personalizzati."
+    },
+    "save": "Salva Preferenze",
+    "saved": "Preferenze salvate!"
+  }
+}
