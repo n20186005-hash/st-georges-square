@@ -15,17 +15,23 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://stgeorgesquare.com';
+  const baseUrl = 'https://stgeorgessquaremalta.com';
 
-  const zhUrl = `${baseUrl}/zh`;
-  const enUrl = `${baseUrl}/en`;
-  const mtUrl = `${baseUrl}/mt`;
-  const itUrl = `${baseUrl}/it`;
+  const urls = {
+    en: `${baseUrl}/en`,
+    zh: `${baseUrl}/zh`,
+    es: `${baseUrl}/es`,
+    it: `${baseUrl}/it`,
+    mt: `${baseUrl}/mt`
+  };
   
-  let selfUrl = enUrl;
-  if (locale === 'zh') selfUrl = zhUrl;
-  else if (locale === 'mt') selfUrl = mtUrl;
-  else if (locale === 'it') selfUrl = itUrl;
+  const selfUrl = urls[locale as keyof typeof urls] || urls.en;
+
+  let ogLocale = 'en_US';
+  if (locale === 'zh') ogLocale = 'zh_CN';
+  else if (locale === 'es') ogLocale = 'es_ES';
+  else if (locale === 'it') ogLocale = 'it_IT';
+  else if (locale === 'mt') ogLocale = 'mt_MT';
 
   return {
     metadataBase: new URL(baseUrl),
@@ -34,11 +40,12 @@ export async function generateMetadata({
     alternates: {
       canonical: selfUrl,
       languages: {
-        'zh': zhUrl,
-        'en': enUrl,
-        'mt': mtUrl,
-        'it': itUrl,
-        'x-default': enUrl,
+        'en': urls.en,
+        'zh': urls.zh,
+        'es': urls.es,
+        'it': urls.it,
+        'mt': urls.mt,
+        'x-default': urls.en,
       },
     },
     openGraph: {
@@ -46,7 +53,7 @@ export async function generateMetadata({
       description: messages.meta.description,
       url: selfUrl,
       siteName: "St. George's Square",
-      locale: locale === 'zh' ? 'zh_CN' : locale === 'en' ? 'en_US' : locale === 'mt' ? 'mt_MT' : 'it_IT',
+      locale: ogLocale,
       type: 'website',
     },
   };
@@ -69,7 +76,7 @@ export default async function LocaleLayout({
   const messages = await getMessages();
 
   return (
-    <html lang={locale === 'zh' ? 'zh-CN' : locale === 'mt' ? 'mt-MT' : locale === 'it' ? 'it-IT' : 'en-US'} suppressHydrationWarning>
+    <html lang={locale === 'zh' ? 'zh-CN' : locale === 'mt' ? 'mt-MT' : locale === 'it' ? 'it-IT' : locale === 'es' ? 'es-ES' : 'en-US'} suppressHydrationWarning>
       <head>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
         <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />

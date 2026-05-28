@@ -15,6 +15,27 @@ VGX7+JCW, Republic St, Valletta, Malta
 
 https://maps.app.goo.gl/CJwegLGa71LFPVkY9
 
+注册域名推荐
+
+
+我们网站是
+stgeorgessquaremalta.com
+检查一遍看下是否有错误
+
+
+表单项	填写内容	说明
+国家 / 地区 *	马耳他 / Malta	下拉框选择
+地址行 1*	Misraħ San Ġorġ (St. George’s Square), Republic Street	填写主要街道和广场名称
+地址行 2	（留空，或填写 VGX7+JCW）	可选补充信息，无额外信息可空着
+城市 *	Valletta（瓦莱塔）	城市名，建议同时填写英文 Valletta
+省 / 自治区 / 直辖市 *	Valletta（瓦莱塔）	马耳他无省级行政区，直接填城市名即可
+邮政编码 *	VLT 1110	瓦莱塔通用邮政编码，匹配该区域标准邮编
+
+
+
+
+
+
 首屏背景图要引用以下
 C:\Users\Administrator\Downloads\马耳他\st-georges-square\public\gallery
 
