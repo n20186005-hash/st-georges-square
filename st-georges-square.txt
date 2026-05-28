@@ -1,0 +1,148 @@
+你正在用（Next.js开发）
+为一个新景点【  St. George’s Square  】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+
+st-georges-square
+马耳他
+瓦莱塔市	St. George’s Square
+
+St. George’s Square
+Misraħ San Ġorġ
+4.6(5,232)
+古迹地标
+
+VGX7+JCW, Republic St, Valletta, Malta
+
+https://maps.app.goo.gl/CJwegLGa71LFPVkY9
+
+首屏背景图要引用以下
+C:\Users\Administrator\Downloads\马耳他\st-georges-square\public\gallery
+
+
+删除原先友情链接，新增以下友情链接
+
+
+马耳他国家遗产局
+https://heritagemalta.mt/
+马耳他国家文化财产清单 
+https://schmalta.mt/national-inventory-and-scheduling-page/
+马耳他国家旅游局
+https://www.visitmalta.com/en/
+瓦莱塔市政府
+https://beltvallettalc.gov.mt/en/
+马耳他国家规划局
+https://www.pa.org.mt/
+
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/CJwegLGa71LFPVkY9
+页面一共四个链接每一个都需要修改
+
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+
+删除 探索更多 板块
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/CJwegLGa71LFPVkY9
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/CJwegLGa71LFPVkY9
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/CJwegLGa71LFPVkY9
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/CJwegLGa71LFPVkY9
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+新增
+马耳他语（Maltese）
+意大利语（Italian）
+
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+
+
+买域名推荐
+
+
+
+
+我们网站是
+检查下有没有错误
+
+
+
+
+
+
+
+
+马耳他
+瓦莱塔市	St. George’s Square
+
+St. George’s Square
+Misraħ San Ġorġ
+4.6(5,232)
+古迹地标
+
+VGX7+JCW, Republic St, Valletta, Malta
+
+https://maps.app.goo.gl/CJwegLGa71LFPVkY9
+
+给我五个国家级、大区级、市级到专业遗产数据库的完整链条
+
+严格限制为国家及地方政府官方、官方官方旅游局的网站友情链接，确保全部具备纯正的官方政府背景： 
+
+
+
+
+
+. 国家级机构：马耳他国家遗产局 (National Agency)
+机构名称：Heritage Malta
+
+官方网站：https://heritagemalta.mt/
+
+层级角色：马耳他中央政府下属的文化遗产最高管理部门。圣乔治广场直面著名的“大教长宫”（The Grandmaster's Palace / 现马耳他总统府），该宫殿及马耳他境内众多联合国教科文组织世界遗产均由其直接运营与保护。
+
+2. 专业遗产数据库：马耳他国家文化财产清单 (Professional Database)
+机构名称：Superintendence of Cultural Heritage (SCH) - National Inventory of the Cultural Property of the Maltese Islands (NICPMI)
+
+官方网站：https://schmalta.mt/national-inventory-and-scheduling-page/
+
+层级角色：这是马耳他唯一具备法律效力的官方历史建筑与文物注册数据库。根据2002年《文化遗产法》设立，负责编制和管理全国文化遗产清单，包括圣乔治广场及其周围所有古典建筑群的专业文物定级与学术监管。
+
+3. 国家/大区级旅游局：马耳他国家旅游局 (Official Tourism Board)
+机构名称：VisitMalta (由 Malta Tourism Authority 运营)
+
+官方网站：https://www.visitmalta.com/en/
+
+层级角色：马耳他政府官方的文旅管理门户。该平台承担了国家和地理大区级的双重旅游展示职能，权威发布关于圣乔治广场的旅游指南、官方活动（如在此举办的狂欢节、卫兵交接仪式）及节庆信息。
+
+4. 市级地方政府：瓦莱塔市政府 (Municipal Government)
+机构名称：Valletta Local Council (Kunsill Lokali l-Belt Valletta)
+
+官方网站：https://beltvallettalc.gov.mt/en/
+
+层级角色：瓦莱塔市的市级行政官方门户。直接负责圣乔治广场的基层市政管理、公共空间维护、市容监控以及本地活动申请审批（Local Permits）。
+
+5. 空间规划与受保护财产数据库：马耳他国家规划局 (Spatial & Scheduled Property Database)
+机构名称：Planning Authority (PA) Malta
+
+官方网站：https://www.pa.org.mt/ (规划系统入口：https://eapps.pa.org.mt/)
+
+层级角色：掌管国家空间地理信息与“受保护财产名录”（Scheduled Property）。任何涉及圣乔治广场周边古迹地标的修缮、建设、外立面改造的图纸、测绘数据及合规性审批，均在此官方专业政务数据库中进行归档与公开查询。
+
+
+
